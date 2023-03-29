@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6509f3ee-2b9e-4ba9-87b2-2599c5efdbd7" name="deepin">
+        <fileTransfer accessType="SFTP" host="10.79.253.150" port="22" sshConfigId="8dc4d734-7328-4f3b-8995-6e78e8103f3a" sshConfig="nym23@newcastle.ac.uk@10.79.253.150:22:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
